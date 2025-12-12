@@ -1,0 +1,2 @@
+[Pending] Expense tracker manager
+[Pending] py notes
